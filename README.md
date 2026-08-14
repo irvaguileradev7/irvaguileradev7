@@ -1,6 +1,7 @@
 Hi, I'm Kevin Irving Aguilera Pérez!
 
 Welcome to my GitHub profile! I am a Software Engineer passionate about Full-Stack development, with a solid background in building scalable enterprise solutions, intuitive user interfaces, and robust architectures.
+
 🛠 About Me
 
 As a developer with extensive experience in agile (Scrum) environments, I specialize in bridging the gap between complex backend logic and modern, responsive frontend experiences. My focus is on code quality, clean architecture, and automation.

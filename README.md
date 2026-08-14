@@ -1,5 +1,4 @@
-Aquí tienes la descripción para tu GitHub README redactada en inglés:
-Hi, I'm Kevin Irving Aguilera Pérez! 👋
+Hi, I'm Kevin Irving Aguilera Pérez!
 
 Welcome to my GitHub profile! I am a Software Engineer passionate about Full-Stack development, with a solid background in building scalable enterprise solutions, intuitive user interfaces, and robust architectures.
 🛠 About Me

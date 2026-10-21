@@ -33,7 +33,7 @@ Tools & DevOps
 
     CI/CD: Jenkins, SonarQube, Docker, Git.
 
-    Testing: JUnit, Mockito, Vitest.
+    Testing: JUnit, Mockito, Vitest, Jest.
 
     Design: Figma.
 
